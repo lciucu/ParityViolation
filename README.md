@@ -1,3 +1,5 @@
-Report for a one year-long lab in the masters program at the University of Geneva, with partner Ana Ventura Barroso, that awarded me 15 ECTS. The .pdf file is [here](https://gitlab.cern.ch/lciucu/ParityViolation/-/blob/master/Report/Report.pdf).
+Report for a one year-long laboraty of experimental particle physics at the masters program at the University of Geneva, with partner Ana Ventura Barroso, that awarded me 15 ECTS. The research topic is the experimental observation of the CP violation (matter-antimatter asymmetry).
 
-It also contains a Python code to make the asymmetry plots.
+* [Report](./Report/Report.pdf).
+
+The repo contains also the Python code to create the asymmetry plots.
